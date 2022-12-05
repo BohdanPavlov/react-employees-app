@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-employees-app/static/css/main.057e96f3.chunk.css",
+    "main.js": "/react-employees-app/static/js/main.2593a94e.chunk.js",
+    "main.js.map": "/react-employees-app/static/js/main.2593a94e.chunk.js.map",
+    "runtime-main.js": "/react-employees-app/static/js/runtime-main.1149fb81.js",
+    "runtime-main.js.map": "/react-employees-app/static/js/runtime-main.1149fb81.js.map",
+    "static/js/2.12996df9.chunk.js": "/react-employees-app/static/js/2.12996df9.chunk.js",
+    "static/js/2.12996df9.chunk.js.map": "/react-employees-app/static/js/2.12996df9.chunk.js.map",
+    "index.html": "/react-employees-app/index.html",
+    "static/css/main.057e96f3.chunk.css.map": "/react-employees-app/static/css/main.057e96f3.chunk.css.map",
+    "static/js/2.12996df9.chunk.js.LICENSE.txt": "/react-employees-app/static/js/2.12996df9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1149fb81.js",
+    "static/js/2.12996df9.chunk.js",
+    "static/css/main.057e96f3.chunk.css",
+    "static/js/main.2593a94e.chunk.js"
+  ]
+}
